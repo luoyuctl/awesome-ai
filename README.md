@@ -133,6 +133,7 @@ Platforms for tracing, debugging, and monitoring AI applications.
 
 | Tool | Description | Links |
 |------|-------------|-------|
+| **agenttrace** | Terminal UI observability for AI coding agent runs with cost, token, latency, tool failure, anomaly, diff, and CI gate views | [Website](https://luoyuctl.github.io/agenttrace/) · [GitHub](https://github.com/luoyuctl/agenttrace) |
 | **Langfuse** | Open-source LLM engineering platform with traces, evaluations, and prompt management | [Website](https://www.langfuse.com) · [GitHub](https://github.com/langfuse/langfuse) |
 | **LangSmith** | LangChain's platform for debugging, testing, and monitoring LLM apps | [Website](https://smith.langchain.com) |
 | **Arize AI** | LLM observability and agent evaluation platform | [Website](https://arize.com) · [Phoenix](https://github.com/Arize-ai/phoenix) |
